@@ -28,9 +28,6 @@ public class ModGlobalLootModifiersProvider extends GlobalLootModifierProvider {
         add("sapphire_from_zombie" , new AddItemModifier(new LootItemCondition[] {
                 new  LootTableIdCondition.Builder(new ResourceLocation("entities/zombie")).build()}, ModItems.SAPPHIRE.get()));
 
-        add("onyx_from_creeper" , new AddItemModifier(new LootItemCondition[] {
-                new  LootTableIdCondition.Builder(new ResourceLocation("entities/creeper")).build()}, ModItems.ONYX.get()));
-
         add("metal_detector_from_jungle_temples" , new AddItemModifier(new LootItemCondition[] {
                 new  LootTableIdCondition.Builder(new ResourceLocation("chests/jungle_temple")).build()}, ModItems.PROSPECTOR_PICK.get()));
 

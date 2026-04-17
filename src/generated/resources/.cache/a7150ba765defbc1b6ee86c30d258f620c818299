@@ -1,0 +1,10 @@
+// 1.20.1	2026-04-12T18:11:18.6522792	Tags for minecraft:block mod id techcraft
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+9861b228269b009b388a92a7907a2360891352ac data/minecraft/tags/blocks/fences.json
+95fbf3af0c1d062178f97fff36be671e4bbecf9d data/minecraft/tags/blocks/fence_gates.json
+4ae4f4a53b5c1315ac6a87dca8125d242856bb3f data/minecraft/tags/blocks/mineable/pickaxe.json
+d610ebf1de0c6d120c4c746c11af65ca8f5d3c13 data/minecraft/tags/blocks/needs_diamond_tool.json
+f4da95ae09bb51ae6fa9117282f8b8dadaf9b848 data/minecraft/tags/blocks/needs_iron_tool.json
+efea67cf9d126bac5ca98e2271614a1d010b251b data/minecraft/tags/blocks/walls.json
+fad4c274cee4c174c47541c21157504ef473f5c8 data/techcraft/tags/blocks/needs_sapphire_tool.json
+861ed92b9c096b1be017f1dcf402b1ea4d32470b data/techcraft/tags/blocks/prospector_pick_valuables.json

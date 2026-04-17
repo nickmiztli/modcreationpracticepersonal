@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "techcraft:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "techcraft:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "techcraft:block/sapphire_slab_top"
+    }
+  }
+}

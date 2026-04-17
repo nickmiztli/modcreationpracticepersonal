@@ -1,0 +1,51 @@
+{
+  "item.techcraft.onyx" : "Onyx",
+  "item.techcraft.raw_sapphire" : "Raw Sapphire",
+  "item.techcraft.fire_ingot" : "Fire Ingot",
+  "item.techcraft.fire_nugget": "Fire Ingot Nugget",
+  "item.techcraft.fire_ore": "Fire Ore",
+  "item.techcraft.prospector_pick": "Prospector Pick",
+  "item.techcraft.empanada": "Empanada",
+  "item.techcraft.coke": "Coke",
+  "item.techcraft.sapphire": "Sapphire",
+  "item.techcraft.sapphire_staff": "Sapphire Staff",
+  "item.techcraft.sapphire_sword": "Sapphire Sword",
+  "item.techcraft.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.techcraft.sapphire_axe": "Sapphire Axe",
+  "item.techcraft.sapphire_shovel": "Sapphire Shovel",
+  "item.techcraft.sapphire_helmet": "Sapphire Helmet",
+  "item.techcraft.sapphire_chestplate": "Sapphire Chestplate",
+  "item.techcraft.sapphire_leggings": "Sapphire Leggings",
+  "item.techcraft.sapphire_boots": "Sapphire Boots",
+  "item.techcraft.sapphire_hoe": "Sapphire Hoe",
+  "item.techcraft.strawberry": "Strawberry",
+  "item.techcraft.strawberry_seeds": "Strawberry Seeds",
+  "item.techcraft.corn_seeds": "Corn Seeds",
+  "item.techcraft.corn": "Corn",
+  "item.techcraft.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.techcraft.bar_brawl_music_disc.desc": "Glorious Sounds",
+
+
+
+  "block.techcraft.fire_block": "Block of Fire",
+  "block.techcraft.nether_fire_ore": "Nether Fire Ore",
+  "block.techcraft.sapphire_block": "Block of Sapphire",
+  "block.techcraft.sapphire_stairs": "Sapphire Stairs",
+  "block.techcraft.sapphire_slab": "Sapphire Slab",
+  "block.techcraft.sapphire_button": "Sapphire Button",
+  "block.techcraft.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.techcraft.sapphire_fence": "Sapphire Fence",
+  "block.techcraft.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.techcraft.sapphire_wall": "Sapphire Wall",
+  "block.techcraft.sapphire_door": "Sapphire Door",
+  "block.techcraft.sapphire_trapdoor": "Sapphire Trapdoor",
+  "block.techcraft.obsidian_brickstone": "Obsidian BrickStone",
+  "block.techcraft.sound_block": "Sound Block",
+
+  "creativetab.techcraft_tab": "TechCraft Utilities",
+
+
+  "entity.minecraft.villager.techcraft.soundmaster": "Sound Master",
+
+  "tooltip.techcraft:prospector_pick": "Looks in der ground to find Minerals"
+}

@@ -1,0 +1,6 @@
+// 1.20.1	2026-04-16T21:14:19.1895266	Global Loot Modifiers : techcraft
+56264902dc8ce712cf2d6a274e06e7d4a73d5541 data/forge/loot_modifiers/global_loot_modifiers.json
+afacdfc09bde0d72fe69f67a97f74fe96f825c1b data/techcraft/loot_modifiers/metal_detector_from_jungle_temples.json
+057479cd5da2c1873b928a15364e79f9bebe0894 data/techcraft/loot_modifiers/metal_detector_from_suspicious_sand.json
+e9ae0710a9eb70442a5edcc52a6e8fea34838605 data/techcraft/loot_modifiers/onyx_from_grass.json
+e3e55d282793f7bcb37708a37e4d7e96253bda44 data/techcraft/loot_modifiers/sapphire_from_zombie.json

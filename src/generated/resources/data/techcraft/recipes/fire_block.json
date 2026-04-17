@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "techcraft:fire_ingot"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
+  "result": {
+    "item": "techcraft:fire_block"
+  },
+  "show_notification": true
+}

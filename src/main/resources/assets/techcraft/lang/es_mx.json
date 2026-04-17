@@ -1,0 +1,50 @@
+{
+  "item.techcraft.onyx" : "Ónice",
+  "item.techcraft.raw_sapphire" : "Zafiro Bruto",
+  "item.techcraft.fire_ingot" : "Lingote de Fuego",
+  "item.techcraft.fire_nugget": "Pepita de Fuego",
+  "item.techcraft.fire_ore": "Ore de Fuego Bruto",
+  "item.techcraft.prospector_pick": "Pico de Prospección",
+  "item.techcraft.empanada": "Empanada",
+  "item.techcraft.coke": "Coque",
+  "item.techcraft.sapphire": "Zafiro",
+  "item.techcraft.sapphire_staff": "Varita de Zafiro",
+  "item.techcraft.sapphire_sword": "Espada de Zafiro",
+  "item.techcraft.sapphire_pickaxe": "Pico de Zafiro",
+  "item.techcraft.sapphire_axe": "Hacha de Zafiro",
+  "item.techcraft.sapphire_shovel": "Pala de Zafiro",
+  "item.techcraft.sapphire_hoe": "Azada de Zafiro",
+  "item.techcraft.sapphire_helmet": "Casco de Zafiro",
+  "item.techcraft.sapphire_chestplate":"Peto de Zafiro",
+  "item.techcraft.sapphire_leggings": "Pantalones de Zafiro",
+  "item.techcraft.sapphire_boots":"Botas de Zafiro",
+  "item.techcraft.strawberry": "Fresa",
+  "item.techcraft.strawberry_seeds": "Semillas de Fresa",
+  "item.techcraft.corn": "Maíz",
+  "item.techcraft.corn_seeds": "Semillas de Maíz",
+  "item.techcraft.bar_brawl_music_disc": "Bar Brawl Disco de Música",
+  "item.techcraft.bar_brawl_music_disc.desc": "Gloriosos Sonidos",
+
+
+  "block.techcraft.fire_block": "Bloque de Fuego",
+  "block.techcraft.nether_fire_ore": "Ore de Fuego del Nether",
+  "block.techcraft.sapphire_block": "Bloque de Zafiro",
+  "block.techcraft.sapphire_stairs": "Escaleras de Zafiro",
+  "block.techcraft.sapphire_slab": "Baldosas de Zarifo",
+  "block.techcraft.sapphire_button": "Botón de Zafiro",
+  "block.techcraft.sapphire_pressure_plate": "Placa de Presión de Zafiro",
+  "block.techcraft.sapphire_fence": "Valla de Zafiro",
+  "block.techcraft.sapphire_fence_gate": "Puerta de Valla de Zafiro",
+  "block.techcraft.sapphire_wall": "Muro de Zafiro",
+  "block.techcraft.sapphire_door": "Puerta de Zafiro",
+  "block.techcraft.sapphire_trapdoor": "Rejilla de Zafiro",
+  "block.techcraft.obsidian_brickstone": "Ladrillos de Obsidiana",
+  "block.techcraft.sound_block": "Bloqe de Sonido",
+
+  "creativetab.techcraft_tab": "TechCraft Ulilidades",
+
+
+  "tooltip.techcraft:prospector_pick": "Busca en el Suelo por Minerales",
+
+  "entity.minecraft.villager.techcraft.soundmaster": "El Pirata Sonidero"
+}

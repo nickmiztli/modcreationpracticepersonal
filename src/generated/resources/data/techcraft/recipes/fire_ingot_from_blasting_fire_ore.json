@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "fire_ingot",
+  "ingredient": {
+    "item": "techcraft:fire_ore"
+  },
+  "result": "techcraft:fire_ingot"
+}

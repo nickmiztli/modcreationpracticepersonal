@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "techcraft:block/sound_block"
+    }
+  }
+}

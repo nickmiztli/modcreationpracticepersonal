@@ -1,6 +1,7 @@
 package net.miztli.techcraft;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.FlowerPotBlock;
@@ -15,6 +16,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.miztli.techcraft.block.ModBlocks;
+import net.miztli.techcraft.entity.ModEntities;
+import net.miztli.techcraft.entity.client.RhinoRenderer;
 import net.miztli.techcraft.item.ModCreativeModeTabs;
 import net.miztli.techcraft.item.ModItems;
 import net.miztli.techcraft.loot.ModLootModifiers;
@@ -43,6 +46,7 @@ public class TechCraft{
         ModLootModifiers.register(modEventBus);
         ModVillagers.register(modEventBus);
         ModSounds.register(modEventBus);
+        ModEntities.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -78,6 +82,8 @@ public class TechCraft{
     public static class ClientModEvents    {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)        {
+
+            EntityRenderers.register(ModEntities.RHINO.get(), RhinoRenderer::new);
         }
     }
 }

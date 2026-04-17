@@ -2,12 +2,14 @@ package net.miztli.techcraft.item;
 
 
 import net.minecraft.world.item.*;
+import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.miztli.techcraft.TechCraft;
 import net.miztli.techcraft.block.ModBlocks;
+import net.miztli.techcraft.entity.ModEntities;
 import net.miztli.techcraft.item.custom.FuelItem;
 import net.miztli.techcraft.item.custom.MetalDetectorItem;
 import net.miztli.techcraft.item.custom.ModArmorItem;
@@ -74,7 +76,9 @@ public class ModItems {
             () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.BOOTS, new Item.Properties()));
 
 
-
+    public static final RegistryObject<Item> RHINO_SPAWN_EGG = ITEMS.register("rhino_spawn_egg",
+            () -> new ForgeSpawnEggItem(ModEntities.RHINO, 0x7e9680, 0xc5d1c5,
+                    new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

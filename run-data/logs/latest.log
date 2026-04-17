@@ -1,59 +1,35 @@
-[16abr2026 21:13:54.513] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\josee\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, techcraft, --all, --output, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\generated\resources, --existing, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\main\resources]
-[16abr2026 21:13:54.522] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[16abr2026 21:13:54.697] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\run-data\config\fml.toml is not correct. Correcting
-[16abr2026 21:13:54.699] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[16abr2026 21:13:54.700] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[16abr2026 21:13:54.700] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[16abr2026 21:13:54.701] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[16abr2026 21:13:54.731] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
-[16abr2026 21:13:54.830] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/josee/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
-[16abr2026 21:13:55.677] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.10\ccc533c7dd67e0983217197d7549c8b49e7ab453\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[16abr2026 21:13:55.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.10\e9a2879fe3612ea34b9728ec2633304a1e67d480\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[16abr2026 21:13:55.690] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.10\ec5cefbbc65c67302b8fac317010faab85fa14b9\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[16abr2026 21:13:55.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.10\94dae566be650566ea9115a1414ab76bfcf5a804\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
-[16abr2026 21:13:55.925] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[16abr2026 21:13:58.820] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\josee\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, techcraft, --all, --output, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\generated\resources, --existing, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\main\resources]
-[16abr2026 21:13:59.860] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [techcraft]
-[16abr2026 21:14:14.111] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
-[16abr2026 21:14:14.117] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.10 Initialized
-[16abr2026 21:14:14.444] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\run-data\config\appleskin-client.toml is not correct. Correcting
-[16abr2026 21:14:14.672] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16abr2026 21:14:14.672] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltip was corrected from null to its default, true. 
-[16abr2026 21:14:14.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltipAlways was corrected from null to its default, true. 
-[16abr2026 21:14:14.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showSaturationHudOverlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlayWhenOffhand was corrected from null to its default, true. 
-[16abr2026 21:14:14.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodExhaustionHudUnderlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.674] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodStatsInDebugOverlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.674] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodHealthHudOverlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.675] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showVanillaAnimationsOverlay was corrected from null to its default, true. 
-[16abr2026 21:14:14.675] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.maxHudOverlayFlashAlpha was corrected from null to its default, 0.65. 
-[16abr2026 21:14:14.679] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\run-data\config\chemlib-common.toml is not correct. Correcting
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options.element abbreviations was corrected from null to its default, true. 
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options.dust abbreviations was corrected from null to its default, false. 
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options.nugget abbreviations was corrected from null to its default, false. 
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options.ingot abbreviations was corrected from null to its default, false. 
-[16abr2026 21:14:14.727] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Rendering Options.plate abbreviations was corrected from null to its default, false. 
-[16abr2026 21:14:14.866] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
-[16abr2026 21:14:14.871] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 3.171 ms
-[16abr2026 21:14:15.756] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/josee/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[16abr2026 21:14:15.757] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/josee/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[16abr2026 21:14:16.668] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[16abr2026 21:14:16.726] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 59 ms
-[16abr2026 21:14:16.727] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
-[16abr2026 21:14:16.826] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 98 ms
-[16abr2026 21:14:16.826] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: techcraft
-[16abr2026 21:14:18.957] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: techcraft finished after 2130 ms
-[16abr2026 21:14:18.957] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: techcraft
-[16abr2026 21:14:19.119] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: techcraft finished after 161 ms
-[16abr2026 21:14:19.119] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id techcraft
-[16abr2026 21:14:19.150] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id techcraft finished after 30 ms
-[16abr2026 21:14:19.150] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id techcraft
-[16abr2026 21:14:19.157] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id techcraft finished after 6 ms
-[16abr2026 21:14:19.157] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : techcraft
-[16abr2026 21:14:19.170] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : techcraft finished after 13 ms
-[16abr2026 21:14:19.170] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id techcraft
-[16abr2026 21:14:19.174] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id techcraft finished after 3 ms
-[16abr2026 21:14:19.175] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 2508 ms
-[16abr2026 21:14:19.219] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 197, old count: 192, new count: 198, removed stale: 0, written: 43
+[16abr2026 21:45:41.581] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\josee\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, techcraft, --all, --output, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\generated\resources, --existing, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\main\resources]
+[16abr2026 21:45:41.597] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[16abr2026 21:45:41.883] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[16abr2026 21:45:42.055] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/josee/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[16abr2026 21:45:42.559] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.10\ccc533c7dd67e0983217197d7549c8b49e7ab453\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[16abr2026 21:45:42.566] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.10\e9a2879fe3612ea34b9728ec2633304a1e67d480\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[16abr2026 21:45:42.575] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.10\ec5cefbbc65c67302b8fac317010faab85fa14b9\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[16abr2026 21:45:42.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\josee\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.10\94dae566be650566ea9115a1414ab76bfcf5a804\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
+[16abr2026 21:45:42.812] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[16abr2026 21:45:45.469] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\josee\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, techcraft, --all, --output, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\generated\resources, --existing, C:\Users\josee\Documentos\TechCraft2\ModPractices\TechCraft2\src\main\resources]
+[16abr2026 21:45:46.673] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [techcraft]
+[16abr2026 21:45:57.100] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
+[16abr2026 21:45:57.105] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.10 Initialized
+[16abr2026 21:45:58.392] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[16abr2026 21:45:58.439] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 43.60 ms
+[16abr2026 21:45:59.105] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/josee/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[16abr2026 21:45:59.106] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/josee/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[16abr2026 21:45:59.408] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[16abr2026 21:45:59.460] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 50 ms
+[16abr2026 21:45:59.462] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[16abr2026 21:45:59.539] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 77 ms
+[16abr2026 21:45:59.539] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: techcraft
+[16abr2026 21:46:00.205] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: techcraft finished after 665 ms
+[16abr2026 21:46:00.206] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: techcraft
+[16abr2026 21:46:00.322] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: techcraft finished after 115 ms
+[16abr2026 21:46:00.322] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id techcraft
+[16abr2026 21:46:00.345] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id techcraft finished after 22 ms
+[16abr2026 21:46:00.345] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id techcraft
+[16abr2026 21:46:00.347] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id techcraft finished after 1 ms
+[16abr2026 21:46:00.347] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : techcraft
+[16abr2026 21:46:00.364] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : techcraft finished after 16 ms
+[16abr2026 21:46:00.365] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id techcraft
+[16abr2026 21:46:00.367] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id techcraft finished after 2 ms
+[16abr2026 21:46:00.367] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 958 ms
+[16abr2026 21:46:00.397] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 198, old count: 198, new count: 199, removed stale: 0, written: 2

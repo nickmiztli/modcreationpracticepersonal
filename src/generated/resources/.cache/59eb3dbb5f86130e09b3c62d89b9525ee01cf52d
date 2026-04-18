@@ -1,7 +1,8 @@
-// 1.20.1	2026-04-12T18:11:18.6572663	Loot Tables
+// 1.20.1	2026-04-17T21:34:17.453659	Loot Tables
 df0550854e7454d23e672e9daa0229af3db6ba0e data/techcraft/loot_tables/blocks/catmint.json
 e88ad3d4074de09ce312a365c1e785ffbc754e5c data/techcraft/loot_tables/blocks/corn_crop.json
 004d6c42e63ad8ccf115779b682227754c80f5b4 data/techcraft/loot_tables/blocks/fire_block.json
+5eca53f27bcd36cd6875e33f4f5dd8513adedf35 data/techcraft/loot_tables/blocks/gem_polishing_station.json
 90a110c7483633a09d6f3bd106f6eb0fed87a81e data/techcraft/loot_tables/blocks/nether_fire_ore.json
 d44b6b8c85b2e3b789fbe9b2972aba0dfc4c8bb5 data/techcraft/loot_tables/blocks/obsidian_brickstone.json
 07341f126d38feb019bfe8c4341b243fb743932e data/techcraft/loot_tables/blocks/potted_catmint.json

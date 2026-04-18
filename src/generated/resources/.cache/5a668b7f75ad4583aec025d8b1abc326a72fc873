@@ -1,7 +1,8 @@
-// 1.20.1	2026-04-12T18:11:18.6552716	Block States: techcraft
+// 1.20.1	2026-04-17T21:34:17.4327149	Block States: techcraft
 60eeeb5c9e5ba080a896b7039487fc79b73c078f assets/techcraft/blockstates/catmint.json
 c7395a55ed22cae52b6d707aba3cbab417174e83 assets/techcraft/blockstates/corn_crop.json
 2e2650c3afe6448186b7ebe7d3225ee57689d459 assets/techcraft/blockstates/fire_block.json
+d4b7f30d46259e89e0bf24823389a35df7e68fc4 assets/techcraft/blockstates/gem_polishing_station.json
 def6887d5da0efa2da592f00649b8f10fe816f63 assets/techcraft/blockstates/nether_fire_ore.json
 e9cc877ff3d01d8cd73ef20cc2512ff36c062251 assets/techcraft/blockstates/obsidian_brickstone.json
 468a156595ba2ed4b3d53598fa1a35f38af5ec60 assets/techcraft/blockstates/potted_catmint.json
@@ -70,6 +71,7 @@ fcdac75ea7e8021d1ac283441076622c1c3d13e7 assets/techcraft/models/block/sound_blo
 37d33c79d1b0c91361b903ad8d0f5a785809f848 assets/techcraft/models/block/strawberry_stage5.json
 8ded797df0cc839c4d285ba7463d024ff380142b assets/techcraft/models/item/catmint.json
 88eb056d8d5b42cdf1e1fd200cd5244febe39be4 assets/techcraft/models/item/fire_block.json
+9d0a607f60f52a767ab08b8f17e79694c1938696 assets/techcraft/models/item/gem_polishing_station.json
 6980a44ffcb526564e914f4f7a04d07d3fb7341d assets/techcraft/models/item/nether_fire_ore.json
 93a9cc8913b3c557b5a4514f820d9c9c0223ac15 assets/techcraft/models/item/obsidian_brickstone.json
 ace715a9385c01676259a0ed0667fe1a83c3737b assets/techcraft/models/item/potted_catmint.json

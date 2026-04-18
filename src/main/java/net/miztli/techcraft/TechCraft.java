@@ -1,6 +1,7 @@
 package net.miztli.techcraft;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.gui.screens.MenuScreens;
 import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
@@ -16,11 +17,14 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.miztli.techcraft.block.ModBlocks;
+import net.miztli.techcraft.block.entity.ModBlockEntities;
 import net.miztli.techcraft.entity.ModEntities;
 import net.miztli.techcraft.entity.client.RhinoRenderer;
 import net.miztli.techcraft.item.ModCreativeModeTabs;
 import net.miztli.techcraft.item.ModItems;
 import net.miztli.techcraft.loot.ModLootModifiers;
+import net.miztli.techcraft.screen.GemPolishingStationScreen;
+import net.miztli.techcraft.screen.ModMenuTypes;
 import net.miztli.techcraft.sound.ModSounds;
 import net.miztli.techcraft.villager.ModVillagers;
 import org.slf4j.Logger;
@@ -47,6 +51,8 @@ public class TechCraft{
         ModVillagers.register(modEventBus);
         ModSounds.register(modEventBus);
         ModEntities.register(modEventBus);
+        ModBlockEntities.register(modEventBus);
+        ModMenuTypes.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -84,6 +90,8 @@ public class TechCraft{
         public static void onClientSetup(FMLClientSetupEvent event)        {
 
             EntityRenderers.register(ModEntities.RHINO.get(), RhinoRenderer::new);
+
+            MenuScreens.register(ModMenuTypes.GEM_POLISHING_MENU.get(), GemPolishingStationScreen:: new);
         }
     }
 }
